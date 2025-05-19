@@ -1,2 +1,2 @@
-# lodash
+# NodeJS: lodash
 How to handle duplicates with Lodash
